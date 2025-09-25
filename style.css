@@ -10,7 +10,7 @@ body {
   font-family: 'Playfair Display', serif;
 }
 #home {
-  background: url(images/Home.jpg) no-repeat center;
+  background: url('images/Home.jpg') no-repeat center;
   background-size: cover;
   height: 110vh;
   color: white;
@@ -682,4 +682,5 @@ footer {
     .social-icons { justify-content: center; }
 
 }
+
 
