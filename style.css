@@ -10,7 +10,7 @@ body {
   font-family: 'Playfair Display', serif;
 }
 #home {
-  background: url(/images/Home.jpg) no-repeat center;
+  background: url(images/Home.jpg) no-repeat center;
   background-size: cover;
   height: 110vh;
   color: white;
@@ -328,7 +328,7 @@ nav ul li a:hover {
   font-weight: bold;
 }
 .order-now {
-  background: url('/images/bg2.0.png') no-repeat center center/cover;
+  background: url('images/bg2.0.png') no-repeat center center/cover;
   color: white;
   display: flex;
   align-items: center;
@@ -498,7 +498,7 @@ nav ul li a:hover {
   font-weight: bold;
 }
 .subscribe {
-  background-image: url('/images/bg2.0.png');
+  background-image: url('images/bg2.0.png');
   padding: 40px 20px;
   text-align: center;
   margin-top: 50px;
@@ -556,7 +556,7 @@ nav ul li a:hover {
 }
 footer {
   background: linear-gradient(rgba(85, 50, 20, 0.85), rgba(30, 15, 10, 0.9)),
-    url("/images/footer-bg.png") no-repeat center center/cover;
+    url("images/footer-bg.png") no-repeat center center/cover;
   color: white;
   padding: 60px 40px;
   display: flex;
@@ -682,3 +682,4 @@ footer {
     .social-icons { justify-content: center; }
 
 }
+
